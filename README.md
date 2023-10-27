@@ -29,7 +29,7 @@ The code supports both CSV file input and manual input through the user interfac
 * Execute the following command to start the Streamlit application:
 
 ```
-streamlit run src/phase3/restaurant-app.py
+cd src/phase3/; streamlit run restaurant-app.py
 ```
 
 ## Interacting with the UI:
